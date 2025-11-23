@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+
+    --color-main-red: #d7373c; 
+    --color-main-white: #fffaeb; 
+    --color-main-blue: #3494b5;
+
+    --font-heading: "Sancreek", sans-serif;
+    --font-text: "Montserrat", sans-serif;
+}
